@@ -97,3 +97,9 @@ ul li a:hover{
 	background-color: blue;
 	color: #fff;
 }
+@media only screen and (max-width: 600em) {
+
+    body {
+        font-size: 2.6vw;
+    }
+}
